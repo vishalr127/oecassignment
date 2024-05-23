@@ -1,4 +1,5 @@
-![image](https://github.com/vishalr127/oecassignment/assets/146502410/00789c57-cfd8-48af-a2d5-0acd8f75fb98)**OEC Assignment 
+
+**OEC Assignment
 
 Built docker images directly on the minikube cluster
 
